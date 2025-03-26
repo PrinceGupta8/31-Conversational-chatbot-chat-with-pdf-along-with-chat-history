@@ -32,8 +32,8 @@ This project is a **Streamlit-based AI chatbot** that provides **context-aware q
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrinceGupta8/conversational-pdf-qa.git
-   cd conversational-pdf-qa
+   git clone https://github.com/PrinceGupta8/Conversational-chatbot-chat-with-pdf-along-with-chat-history.git
+   cd Conversational-chatbot-chat-with-pdf-along-with-chat-history
    ```
 2. **Create a virtual environment** 
    ```bash
@@ -84,5 +84,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-🚀 **Enhance your document-based conversations with AI-powered context-aware answers!**
+**Enhance your document-based conversations with AI-powered context-aware answers!**
 
